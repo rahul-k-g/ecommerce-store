@@ -1,0 +1,31 @@
+[{
+    "title": "The Hogwart",
+    "id": "hogwart_logo",
+    "description": "Gift card/Wallet Top-up",
+    "price": "1200",
+    "image": "/images/hogwart.jpg"
+
+  },
+  {
+    "title": "The witcher",
+    "id": "witcher_logo",
+    "description": "Action adventure role playing game.",
+    "price": "2999",
+    "image": "/images/witcher.jpg"
+  },
+  {
+    "title": "Florida gaters",
+    "id": "gaters_logo",
+    "description": "College items",
+    "price": "300",
+    "image": "/images/florida-gators.jpg"
+
+  },
+  {
+    "title": "Brady",
+    "id": "brady_logo",
+    "description": "Nike NFL",
+    "price": "400",
+    "image": "/images/hogwart.jpg"
+
+  }]
